@@ -1,0 +1,22 @@
+{
+  "name": "legochain",
+  "version": "0.1.0",
+  "description": "Educational blockchain experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roconda/legochain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Tim Slot <tim.slot@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roconda/legochain/issues"
+  },
+  "homepage": "https://github.com/Roconda/legochain#readme"
+}
